@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Tracker-Next | Monthly Improvement Tracker",
-  description: "Track monthly company procedures - improve, add, or remove",
+  title: "Revido Better Ops",
+  description: "Track and improve monthly team operations",
 };
 
 export default function RootLayout({
